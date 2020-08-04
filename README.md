@@ -28,6 +28,4 @@ Jetson Nano와 영상처리 기반의 스마트 도어락 제작 프로젝트
   
 ## 결과물
 ### HardWare
-
-
 ### Ubuntu Image Detecting
