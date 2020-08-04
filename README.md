@@ -24,7 +24,7 @@ Jetson Nano와 영상처리 기반의 스마트 도어락 제작 프로젝트
   - Pytorch를 활용하여 이미지 학습
   - Imagenet & network:resnet18 사용하여 이미지 Detecting
   - 하드웨어 회로도
-  <img src="https://user-images.githubusercontent.com/59678496/89258783-cb59fc80-d663-11ea-8abe-81c49a2c41a1.png">
+  <img src="https://user-images.githubusercontent.com/59678496/89259268-e9742c80-d664-11ea-80b8-217a8e8d68a9.png">
   
 ## 결과물
 ### HardWare
