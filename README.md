@@ -27,8 +27,8 @@ Jetson Nano와 영상처리 기반의 스마트 도어락 제작 프로젝트
   <img src="https://user-images.githubusercontent.com/59678496/89259268-e9742c80-d664-11ea-80b8-217a8e8d68a9.png">
   
 ## 결과물
-### HardWare
+[ HardWare ]
 <img src="https://user-images.githubusercontent.com/59678496/89260583-85069c80-d667-11ea-834b-bb9e9212669e.gif">
 
-### Ubuntu Image Detecting
+[ Ubuntu Image Detecting ]
 <img src="https://user-images.githubusercontent.com/59678496/89260955-373e6400-d668-11ea-8389-4eafdc7edf3f.gif">
