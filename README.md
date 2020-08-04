@@ -22,7 +22,12 @@ Jetson Nano와 영상처리 기반의 스마트 도어락 제작 프로젝트
 - 프로젝트 요약
   - Jetson Nano에 리눅스 우분투 개발환경 구축
   - Pytorch를 활용하여 이미지 학습
+    - 이미지 트레이닝을 통한 손가락 모션 학습
   - Imagenet & network:resnet18 사용하여 이미지 Detecting
+    - 초기 비밀번호 동작을 class_id 를 활용하여 설정
+    - 인식된 모션에 따라 OLED, LED 출력
+    - 인식된 모션의 class_id와 초기설정 class_id 비교 후 lock/unlock
+    
   - 하드웨어 회로도
   <img src="https://user-images.githubusercontent.com/59678496/89259268-e9742c80-d664-11ea-80b8-217a8e8d68a9.png">
   
